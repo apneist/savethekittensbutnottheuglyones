@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CD07BD5DA89414C8C98C282E39F2B81E2E60D0ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CD07BD5DA89414C8C98C282E39F2B81E2E60D0ED" : 9223372036854775807,
+    "E3538E208C50F5617127E7FF9C351C7BC7454B09" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1A0CC9E9-4729-417B-A36B-C06594B75AA6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CD07BD5DA89414C8C98C282E39F2B81E2E60D0ED" : "SaveTheKittensExceptTheHairlessOnes\/",
+    "E3538E208C50F5617127E7FF9C351C7BC7454B09" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SaveTheKittensExceptTheHairlessOnes",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SaveTheKittensExceptTheHairlessOnes.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:apneist\/savethekittensbutnottheuglyones.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD07BD5DA89414C8C98C282E39F2B81E2E60D0ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:apneist\/savethekittensbutnottheuglyones.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3538E208C50F5617127E7FF9C351C7BC7454B09"
+    }
+  ]
+}
