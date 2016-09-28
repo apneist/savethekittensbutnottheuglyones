@@ -10,8 +10,11 @@
 		58A099971D99EEA20042BACA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A099961D99EEA20042BACA /* AppDelegate.swift */; };
 		58A099991D99EEA20042BACA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A099981D99EEA20042BACA /* ViewController.swift */; };
 		58A0999C1D99EEA20042BACA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58A0999A1D99EEA20042BACA /* Main.storyboard */; };
-		58A0999E1D99EEA20042BACA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58A0999D1D99EEA20042BACA /* Assets.xcassets */; };
 		58A099A11D99EEA20042BACA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58A0999F1D99EEA20042BACA /* LaunchScreen.storyboard */; };
+		58A099AC1D9B19350042BACA /* DSC00022.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 58A099A81D9B19350042BACA /* DSC00022.JPG */; };
+		58A099AD1D9B19350042BACA /* icon0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 58A099A91D9B19350042BACA /* icon0.jpg */; };
+		58A099AE1D9B19350042BACA /* icon1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 58A099AA1D9B19350042BACA /* icon1.JPG */; };
+		58A099AF1D9B19350042BACA /* icon2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 58A099AB1D9B19350042BACA /* icon2.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +22,12 @@
 		58A099961D99EEA20042BACA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		58A099981D99EEA20042BACA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		58A0999B1D99EEA20042BACA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		58A0999D1D99EEA20042BACA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58A099A01D99EEA20042BACA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58A099A21D99EEA20042BACA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58A099A81D9B19350042BACA /* DSC00022.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DSC00022.JPG; sourceTree = "<group>"; };
+		58A099A91D9B19350042BACA /* icon0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icon0.jpg; sourceTree = "<group>"; };
+		58A099AA1D9B19350042BACA /* icon1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icon1.JPG; sourceTree = "<group>"; };
+		58A099AB1D9B19350042BACA /* icon2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icon2.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +62,11 @@
 			children = (
 				58A099961D99EEA20042BACA /* AppDelegate.swift */,
 				58A099981D99EEA20042BACA /* ViewController.swift */,
+				58A099A81D9B19350042BACA /* DSC00022.JPG */,
+				58A099A91D9B19350042BACA /* icon0.jpg */,
+				58A099AA1D9B19350042BACA /* icon1.JPG */,
+				58A099AB1D9B19350042BACA /* icon2.JPG */,
 				58A0999A1D99EEA20042BACA /* Main.storyboard */,
-				58A0999D1D99EEA20042BACA /* Assets.xcassets */,
 				58A0999F1D99EEA20042BACA /* LaunchScreen.storyboard */,
 				58A099A21D99EEA20042BACA /* Info.plist */,
 			);
@@ -124,8 +133,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				58A099A11D99EEA20042BACA /* LaunchScreen.storyboard in Resources */,
-				58A0999E1D99EEA20042BACA /* Assets.xcassets in Resources */,
+				58A099AE1D9B19350042BACA /* icon1.JPG in Resources */,
+				58A099AD1D9B19350042BACA /* icon0.jpg in Resources */,
 				58A0999C1D99EEA20042BACA /* Main.storyboard in Resources */,
+				58A099AC1D9B19350042BACA /* DSC00022.JPG in Resources */,
+				58A099AF1D9B19350042BACA /* icon2.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +309,7 @@
 				58A099A71D99EEA20042BACA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
